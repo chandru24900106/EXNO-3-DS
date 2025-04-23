@@ -31,6 +31,8 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
+
+       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 ```       
 import pandas as pd
 df=pd.read_csv("/content/Encoding Data.csv")
@@ -191,6 +193,7 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/a32e4ce0-8196-47eb-b881-55a79468434b)
 # RESULT:
+#include the result here
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file is obtained successfully
 
        
